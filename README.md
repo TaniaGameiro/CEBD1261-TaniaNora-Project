@@ -3,6 +3,7 @@ Flavors of Cacao - Data Analysis in Python
 
 ## PROJECT TEAM
 Tania Gameiro
+ 
 Nora Arouchian
  
 ## RESULTS
@@ -19,7 +20,7 @@ Project (70%):
 
  
 #### Part 2: Deploy the pipeline with the containers
-See command line document in Github.
+See command line information in presentation on Github.
 
 #### Part 3: Prepare two use cases either analytics or visualisation
 See Python script in Github. 
